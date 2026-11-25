@@ -12103,6 +12103,65 @@
           </node>
         </node>
       </node>
+      <node concept="1E1JtD" id="6EnRsp0a00" role="2G$12L">
+        <property role="BnDLt" value="true" />
+        <property role="TrG5h" value="regelspraak.en" />
+        <property role="3LESm3" value="0dfb4671-7ad4-4bb5-80c9-6e0ef60b7e68" />
+        <node concept="398BVA" id="6EnRsp0a01" role="3LF7KH">
+          <ref role="398BVh" node="4wvGeDpkH53" resolve="alef" />
+          <node concept="2Ry0Ak" id="6EnRsp0a02" role="iGT6I">
+            <property role="2Ry0Am" value="languages" />
+            <node concept="2Ry0Ak" id="6EnRsp0a03" role="2Ry0An">
+              <property role="2Ry0Am" value="regelspraak.en" />
+              <node concept="2Ry0Ak" id="6EnRsp0a04" role="2Ry0An">
+                <property role="2Ry0Am" value="regelspraak.en.mpl" />
+              </node>
+            </node>
+          </node>
+        </node>
+        <node concept="1SiIV0" id="6EnRsp0a05" role="3bR37C">
+          <node concept="3bR9La" id="6EnRsp0a06" role="1SiIV1">
+            <ref role="3bR37D" node="4wvGeDpkGS5" resolve="regelspraak" />
+          </node>
+        </node>
+        <node concept="1SiIV0" id="6EnRsp0a07" role="3bR37C">
+          <node concept="3bR9La" id="6EnRsp0a08" role="1SiIV1">
+            <ref role="3bR37D" node="4wvGeDpkGRB" resolve="gegevensspraak" />
+          </node>
+        </node>
+        <node concept="1SiIV0" id="6EnRsp0a09" role="3bR37C">
+          <node concept="3bR9La" id="6EnRsp0a0a" role="1SiIV1">
+            <ref role="3bR37D" to="ffeo:1TaHNgiIbIZ" resolve="MPS.Editor" />
+          </node>
+        </node>
+        <node concept="1SiIV0" id="6EnRsp0a0b" role="3bR37C">
+          <node concept="1Busua" id="6EnRsp0a0c" role="1SiIV1">
+            <ref role="1Busuk" node="4wvGeDpkGS5" resolve="regelspraak" />
+          </node>
+        </node>
+        <node concept="1BupzO" id="6EnRsp0a0d" role="3bR31x">
+          <property role="3ZfqAx" value="models" />
+          <property role="1Hdu6h" value="true" />
+          <property role="1HemKv" value="true" />
+          <node concept="3LXTmp" id="6EnRsp0a0e" role="1HemKq">
+            <node concept="398BVA" id="6EnRsp0a0f" role="3LXTmr">
+              <ref role="398BVh" node="4wvGeDpkH53" resolve="alef" />
+              <node concept="2Ry0Ak" id="6EnRsp0a0g" role="iGT6I">
+                <property role="2Ry0Am" value="languages" />
+                <node concept="2Ry0Ak" id="6EnRsp0a0h" role="2Ry0An">
+                  <property role="2Ry0Am" value="regelspraak.en" />
+                  <node concept="2Ry0Ak" id="6EnRsp0a0i" role="2Ry0An">
+                    <property role="2Ry0Am" value="models" />
+                  </node>
+                </node>
+              </node>
+            </node>
+            <node concept="3qWCbU" id="6EnRsp0a0j" role="3LXTna">
+              <property role="3qWCbO" value="**/*.mps, **/*.mpsr, **/.model" />
+            </node>
+          </node>
+        </node>
+      </node>
       <node concept="1E1JtD" id="R8Em0KzlRk" role="2G$12L">
         <property role="BnDLt" value="true" />
         <property role="TrG5h" value="servicespraak.tijd" />

@@ -49,6 +49,7 @@
       <modulePath path="$PROJECT_DIR$/languages/modelNaarJson/modelNaarJson.mpl" folder="alef.generator.json" />
       <modulePath path="$PROJECT_DIR$/languages/objecten/gegevensspraak.mpl" folder="alef.spraken" />
       <modulePath path="$PROJECT_DIR$/languages/rapporten/rapporten.mpl" folder="alef.ide" />
+      <modulePath path="$PROJECT_DIR$/languages/regelspraak.en/regelspraak.en.mpl" folder="alef.spraken" />
       <modulePath path="$PROJECT_DIR$/languages/regelspraak.tijd/regelspraak.tijd.mpl" folder="alef.spraken.tijd" />
       <modulePath path="$PROJECT_DIR$/languages/regelspraak/regelspraak.mpl" folder="alef.spraken" />
       <modulePath path="$PROJECT_DIR$/languages/serviceNaarOpenApi.tijd/serviceNaarOpenApi.tijd.mpl" folder="alef.generator.service" />
